@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JimLynx/react-portfolio-masterstatic/css/main.5facb584.chunk.css",
+    "main.js": "/JimLynx/react-portfolio-masterstatic/js/main.6194e7aa.chunk.js",
+    "main.js.map": "/JimLynx/react-portfolio-masterstatic/js/main.6194e7aa.chunk.js.map",
+    "runtime-main.js": "/JimLynx/react-portfolio-masterstatic/js/runtime-main.22736b7b.js",
+    "runtime-main.js.map": "/JimLynx/react-portfolio-masterstatic/js/runtime-main.22736b7b.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/JimLynx/react-portfolio-masterstatic/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/JimLynx/react-portfolio-masterstatic/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/JimLynx/react-portfolio-masterindex.html",
+    "precache-manifest.feb39fcd7a611c22d0c9398ad8a1dc22.js": "/JimLynx/react-portfolio-masterprecache-manifest.feb39fcd7a611c22d0c9398ad8a1dc22.js",
+    "service-worker.js": "/JimLynx/react-portfolio-masterservice-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/JimLynx/react-portfolio-masterstatic/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/JimLynx/react-portfolio-masterstatic/js/2.3ef2d018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22736b7b.js",
+    "static/js/2.3ef2d018.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.6194e7aa.chunk.js"
+  ]
+}
