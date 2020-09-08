@@ -26,5 +26,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimLynx/react-portfolio-master.git"
+  },
+  "author": "DevLynx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimLynx/react-portfolio-master/issues"
+  },
+  "homepage": "https://github.com/JimLynx/react-portfolio-master#readme"
 }
